@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Makes falshcards and lets you use them",
+  "main": "flashCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrickae/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "cards",
+    "flashcards"
+  ],
+  "author": "andy patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrickae/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Patrickae/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
