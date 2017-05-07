@@ -1,1 +1,1 @@
-{"front":"what day is it","back":"sunday"}{"question":"today is ...","answer":"sunday"}
+{"question":"Waht is the sixth month of the year","answer":"June"}{"question":"... is the president of the USA","answer":"Donald Trump"}

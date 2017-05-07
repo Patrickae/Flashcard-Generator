@@ -1,9 +1,9 @@
 
 
 
-function BasicCard (front, back){
-	this.front = front,
-	this.back = back
+function BasicCard (question, answer){
+	this.question = question,
+	this.answer = answer
 
 };
 
